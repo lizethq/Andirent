@@ -1,0 +1,4 @@
+[submodule "jotate70/new_addons/query_deluxe"]
+	path = jotate70/new_addons/query_deluxe
+	url = git@github.com:jotate70/new_addons.git
+	branch = 15.0
