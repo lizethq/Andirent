@@ -2,3 +2,8 @@
 	path = jotate70/new_addons/query_deluxe
 	url = git@github.com:jotate70/new_addons.git
 	branch = 15.0
+
+[submodule "jotate70/new_addons/helpdesk_ticket_custom"]
+	path = jotate70/new_addons/helpdesk_ticket_custom
+	url = git@github.com:jotate70/new_addons.git
+	branch = 15.0
